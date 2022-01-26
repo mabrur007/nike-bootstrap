@@ -1,0 +1,21 @@
+
+.bg-header{
+    background-color: #FFF9F4;
+}
+.btn-primary{
+    background: linear-gradient(#3D4FF3, #3543BC);
+    padding: 14px 20px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 4vw;
+    color: #363958;
+}
+.color-prime{
+    color: #FA804C;
+}
+
+/* section margin */
+.mb-sec{
+    margin-bottom: 12vh;
+}

@@ -2,9 +2,12 @@
 .bg-header{
     background-color: #FFF9F4;
 }
+.bg-card{
+    background-color: #F1F1F1;
+}
 .btn-primary{
     background: linear-gradient(#3D4FF3, #3543BC);
-    padding: 14px 20px;
+    padding: 12px 18px;
     border-radius: 10px;
 }
 h1{
@@ -18,4 +21,8 @@ h1{
 /* section margin */
 .mb-sec{
     margin-bottom: 12vh;
+}
+/* border radius */
+.border-rad-14{
+    border-radius: 14px;
 }
